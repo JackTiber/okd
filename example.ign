@@ -1,0 +1,15 @@
+{
+  "ignition": {
+    "version": "3.2.0"
+  },
+  "passwd": {
+    "users": [
+      {
+        "name": "core",
+        "sshAuthorizedKeys": [
+          "ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABgQDgjM7qq8CebV5k3GMvOZ70VwErbu8CeUkzfauQjjwKTjMsz0mgRAfY2alT8RMmPzxGBtQZff1mzRNoIcREjjkRdbuouy1ZNYGLkJgzCBG6r8Ed+B0Gpr1qjXu6Bbne1yOzh0TTu0AQAoDrAAp7eiuscb8E77UUMLUOoFHjQ3MaonlkUM3ERlyrj9wN5Ahn8QlQYX4Gp/KYSYf2vUBrfI8n3Jwg4hyjcdI4gHRfL3swZIHvsokLLyBiGhj6eFTOHD16m4ysQPwK4pFsTXJIImoovTD/XajNgLSdCFqr5nxXJbZHQiKFg8ORYXDz3d3UJqRErr4NKi9MXcejfiBX5HE7o589TxTTY5kQry7nDhADr1APNYy0Se1rW3Zvc99j2cKA3fz4g4lE6EO9fP1hlatgObpX4EmZkXi2yKHcMOCmMTaqoIZVRVJRmUsfmr6sv2XAFE3aVMm7YMSZN//AHALNYoGjl4g8c5PFdxGruzmh+DTaQ37rpJ4Dw7w3lk7T8Bc= jackbarger@Desktop-Ubuntu"
+        ]
+      }
+    ]
+  }
+}
